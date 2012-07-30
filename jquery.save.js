@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2010 M. Kolodny
+ * Copyright (c) 2012 M. Kolodny
  * Dual licensed under the MIT and GPL licenses.
  * https://github.com/kolodny
 */
